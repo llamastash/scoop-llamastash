@@ -1,14 +1,10 @@
 # LlamaStash — Scoop bucket
 
-```
- _                          ___ _            _
-| |   |   __ _ _ __ ___  __|  _| |_ __ _ ___| |__
-| |__ | |/ _` | '_ ` _ \/ _` |_  __/ _` / __| '_ \
-| |__|| | (_| | | | | | | (_| || |( (_| \__ \ | | |
-|____||_|\__,_|_| |_| |_|\__,_||_| \__,_|___/_| |_|
-```
+![Logo](https://raw.githubusercontent.com/llamastash/llamastash/main/assets/logo-h.jpg)
 
-A fast, keyboard-driven TUI for running local models via [llama.cpp](https://github.com/ggml-org/llama.cpp).
+**Zero-overhead, terminal-native `llama.cpp` launcher.**
+
+A fast TUI **and** CLI with init wizard for launching local LLMs via [llama.cpp](https://github.com/ggml-org/llama.cpp). One Rust binary that's a TUI, a CLI, a daemon, and an OpenAI-compatible proxy. Zero overhead vs raw `llama-server`.
 
 **This repo holds the [Scoop](https://scoop.sh) bucket for [LlamaStash](https://github.com/llamastash/llamastash).**
 
