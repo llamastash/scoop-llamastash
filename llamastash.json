@@ -7,7 +7,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/llamastash/llamastash/releases/download/v0.0.2/llamastash-0.0.2-x86_64-pc-windows-msvc.zip",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "hash": "e8ae0b35d35bad05c66dbb6b01635c666866d5f4df90e0ddf6c7d724bad047e9",
       "extract_dir": "llamastash-0.0.2-x86_64-pc-windows-msvc"
     }
   },
