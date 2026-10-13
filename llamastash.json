@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "description": "Zero-overhead, terminal-native local-LLM manager",
   "homepage": "https://github.com/llamastash/llamastash",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/llamastash/llamastash/releases/download/v0.6.1/llamastash-0.6.1-x86_64-pc-windows-msvc.zip",
-      "hash": "b03ab6e5a19819f65fdec98215ea4b33236bbf4cc47e2c68afd39950f3a5be82",
-      "extract_dir": "llamastash-0.6.1-x86_64-pc-windows-msvc"
+      "url": "https://github.com/llamastash/llamastash/releases/download/v0.7.0/llamastash-0.7.0-x86_64-pc-windows-msvc.zip",
+      "hash": "55f1fa620774d50505a16c77cefce638682a860a8822923ba91d7e714d4fec34",
+      "extract_dir": "llamastash-0.7.0-x86_64-pc-windows-msvc"
     }
   },
   "bin": "llamastash.exe",
